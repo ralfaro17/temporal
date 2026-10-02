@@ -1,1 +1,3 @@
-console.error("Esta linea no funciona")
+if(true) {
+  console.log("esto siempre es correcto")
+}
