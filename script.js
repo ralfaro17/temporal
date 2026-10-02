@@ -1,1 +1,1 @@
-console.log("miSuperContraseña")
+console.error("Esta linea no funciona")
