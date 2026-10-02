@@ -1,1 +1,1 @@
-console.error("Esta linea no funciona")
+// esto no funcinó
