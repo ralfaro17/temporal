@@ -1,1 +1,3 @@
-// esto no funcinó
+if(true) {
+  console.log("esto siempre es correcto")
+}
